@@ -20,4 +20,4 @@
 | SQL Data Exploration | Joins, aggregations on sample datasets | SQL |
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](your-linkedin-url)
+(www.linkedin.com/in/mahima-ab1914327)
